@@ -5,7 +5,7 @@ Crie uma Classe Pessoa, contendo os atributos encapsulados, com seus respectivos
 ### Solução:
 Criei a classe Pessoa, com os atributos como *private* para garantir o encapsulamento e construtores padrão: um que não recebe nenhum parâmetro e inicializa as Strings vazias, um que recebe nome e endereço e um que recebe nome e telefone. Por fim implementei todos os getters e setters, conforme requisitado.
 
-O código ficou assim (O código está no meu [GitHub](https://github.com/royergc) , no repositório [M1S07](https://github.com/royergc/M1S07)  ).
+O código ficou assim (O código está no meu [GitHub](https://github.com/royergc) , no repositório [M1S07 - src - Ex1 -  Pessoa.java](https://github.com/royergc/M1S07)  ).
 
 ```
 package Ex1;
