@@ -1,7 +1,5 @@
 package Ex4;
 
-import Ex3.Empregado;
-
 import java.util.Scanner;
 
 public class AdministradorTester {

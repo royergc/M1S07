@@ -6,7 +6,7 @@ Considere, como subclasse da classe Pessoa, a classe Empregado. Considere que ca
 Segui exatamente o que o enunciado pedia. ( considerei a mesma logica dos exercicios anteriores, criando mais opções de construtores além da opção padrao).
 Para calculo do salario, considerei que o imposto é um valor percentual a ser descontado do salario (imposto de 27,5% por exemplo).
 Para a classe de teste, utilizei a mesma logica do Ex2, pedindo ao usuario que preencha os dados via linha de comando para testar a criacao do objeto Empregado e calcular seu salario liquido.
-O código ficou assim (O código está no meu [GitHub](https://github.com/royergc) , no repositório [M1S07 - src - Ex3](https://github.com/royergc/M1S07/src/Ex3)  ).
+O código ficou assim (O código está no meu [GitHub](https://github.com/royergc) , no repositório [M1S07 - src - Ex3](https://github.com/royergc/M1S07/tree/main/src/Ex3)  ).
 
 Classe *Empregado.java:* 
 
