@@ -7,7 +7,8 @@ Animal:
 ## Solução:
 
 Criei a classe Animal como abstrata e as classes Cachorro, Cavalo e Preguiça herdam (extendem) da classe Animal.
-Na classe Animal adicionei os atributos nome, idade e o método emitirSom, enquanto na classe Cachorro criei o metodo correr, assim como na classe Cavalo. Na classe Preguia, criei o metodo subir em arvores.
+Na classe Animal adicionei os atributos nome, idade e o método emitirSom (que imprime o nome da classe + "emitindo som" no console), assim como os getters e setters.    
+Na classe Cachorro criei o metodo correr ( que imprime "Cachorro correndo" no console), assim como na classe Cavalo. Na classe Preguica, criei o metodo subir em arvore (que imprime "Preguica subindo em arvore" no console).
 O Código se encontra no meu [GitHub](https://github.com/royergc), no repositório [M1S07 - Ex7](https://github.com/royergc/M1S07/tree/main/src/Ex7)
 Ficou assim:
 
