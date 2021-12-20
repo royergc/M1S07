@@ -9,7 +9,7 @@ Modifiquei as classes Cachorro, Cavalo e Preguica, sobrescrevendo o metodo emiti
 As classes ficaram assim:
 
 Classe *Animal.java*
-```aidl
+```
 package Ex8;
 
 public abstract class Animal {
@@ -45,7 +45,7 @@ public abstract class Animal {
 ```
 
 Classe *Cachorro.java*
-```aidl
+```
 package Ex8;
 
 public class Cachorro extends Animal {
@@ -66,7 +66,7 @@ public class Cachorro extends Animal {
 ```
 
 Classe *Cavalo.java*
-```aidl
+```
 package Ex8;
 
 public class Cavalo extends Animal {
@@ -87,7 +87,7 @@ public class Cavalo extends Animal {
 ```
 
 Classe *Preguiça.java*
-```aidl
+```
 package Ex8;
 
 public class Preguica extends Animal {
@@ -110,7 +110,7 @@ public class Preguica extends Animal {
 Por fim, criei a classe para testar essa implementação. Ela basicamente cria um animal de cada tipo e chama o metodo emitirSom() para cada animal:
 
 Classe *AnimaisTester.java*
-```aidl
+```
 package Ex8;
 
 public class AnimaisTester {
